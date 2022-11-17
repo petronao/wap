@@ -1,0 +1,815 @@
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Documents\Visual Studio 2019\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.8\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.9\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.11\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.12\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.14\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.15\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.5\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WinFormsApp1.2.6\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WinFormsApp1.2.6\WinFormsApp1.2.7\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\pcx\Desktop\WAP.1.0\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.2\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.3\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormProfissionais.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\INDICADORES\ferramentas PEC ESUS\ferramentas\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormProfissionais.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\config.txt
+E:\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormEscalaTrabalho.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\config.txt
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormCidadao.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormEscalaTrabalho.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormProfissionais.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\petronio\Desktop\WAP.1.4-20220328T102538Z-001\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\config.txt
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\bin\Debug\net5.0-windows\Npgsql.dll
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.ACENTUACAO.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDS.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.CadastrosCDScompletos.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormAtendimentod.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormEscalaTrabalho.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormGestantes.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormProfissionais.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormTodosCad.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form_QueryManual.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.From_Domicilio.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\bkacup\software\PROJETOS CSHARP\WAP.1.4\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormRisco.resources
